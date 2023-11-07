@@ -12,10 +12,10 @@
    Download git from https://git-scm.com/downloads
 
    Git clone this repository with.
-    - git clone https://github.com/caiena78/Cisco_Automation.git
+      git clone https://github.com/caiena78/Cisco_Automation.git
    
    install the python requirements with
-    - run "pip install -r requirements.txt" 
+      run "pip install -r requirements.txt" 
 
 
 # Running the Examples
