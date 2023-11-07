@@ -2,7 +2,7 @@
     I have created 3 different want to automate a Cisco Device
         1. Netmiko_CLI  - Automate the deivce with CLI commands 
         2. Restconf     - Automate the device with the rest api
-        2. Netconf      - Automate the device with netconf  (The python driver ncclient  only works on linux and mac)
+        3. Netconf      - Automate the device with netconf  (The python driver ncclient  only works on linux and mac)
 
 # Models
 
