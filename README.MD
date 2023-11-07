@@ -9,9 +9,11 @@
 
 # Prerequisite
    Download and install python from https://www.python.org/downloads/ you will also need to add it to your path.
-   Download git from https://git-scm.com/downloads 
+   Download git from https://git-scm.com/downloads
+
    Git clone this repository with.
     - git clone https://github.com/caiena78/Cisco_Automation.git
+   
    install the python requirements with
     - run "pip install -r requirements.txt" 
 
