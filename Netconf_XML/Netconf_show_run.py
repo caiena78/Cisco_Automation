@@ -3,7 +3,7 @@
 #   *********ncclient only works on Linux and Mac***********
 #
 # before you run this script install the requirments with the following commands
-#  pip install requirments.txt 
+#  pip install -r requirments.txt 
 #
 # Run Example
 # python Netconf_show_run.py --deviceip "192.168.x.x" --username <username>  --password <password>
