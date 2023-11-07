@@ -26,6 +26,6 @@
         pip install -r requirement.txt
         python Restconf_show_run.py --deviceip "192.168.x.x" --username <username>  --password <password>
 
-     - Netconf_XML  <-- 
+     - Netconf_XML  <-- The python driver ncclient  only works on linux and mac
         pip install -r requirement.txt
         python Netconf_show_run.py --deviceip "192.168.x.x" --username <username>  --password <password>
