@@ -17,25 +17,25 @@
    
    install the python requirements with
 
-      run "pip install -r requirements.txt" 
+       pip install -r requirements.txt
 
 
 # Running the Examples
-     from the command prompt change into the directory you want to try.
-     - Netmiko_CLI
+     From the command prompt change into the directory you want to try.
+     Netmiko_CLI
         
-        pip install -r requirement.txt
+        pip install -r requirements.txt
         
         python show_run.py --deviceip "192.168.x.x" --username <username>  --password <password>
 
-     - Restconf_JSON
+     Restconf_JSON
         
-        pip install -r requirement.txt
+        pip install -r requirements.txt
         
         python Restconf_show_run.py --deviceip "192.168.x.x" --username <username>  --password <password>
 
-     - Netconf_XML  <-- The python driver ncclient  only works on linux and mac
+     Netconf_XML  <-- The python driver ncclient  only works on linux and mac
         
-        pip install -r requirement.txt
+        pip install -r requirements.txt
         
         python Netconf_show_run.py --deviceip "192.168.x.x" --username <username>  --password <password>
