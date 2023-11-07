@@ -5,7 +5,10 @@
         2. Netconf      - Automate the device with netconf  (The python driver ncclient  only works on linux and mac)
 
 # Models
-    Cisco Restconf and Netconf are based on models, I have included the model i work with in the Models folder
+
+
+    Cisco Restconf and Netconf are based on models, I have included the model 
+    I work with in the Models folder
 
 # Prerequisite
    Download and install python from https://www.python.org/downloads/ you will also need to add it to your path.
